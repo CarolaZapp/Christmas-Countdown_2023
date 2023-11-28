@@ -94,6 +94,21 @@ h1{
   margin: 0.25rem;
 }
 
+footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  color: #fff;
+  text-align: center;
+  padding-bottom: 20px;
+  z-index: 20;
+}
+
+.picture-link{
+  color: #fff;
+}
+
 @media (min-width: 1280px) {
   .bg-text {
     top: 5%;
